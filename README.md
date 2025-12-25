@@ -1,4 +1,4 @@
-<img src="res/profile1.png" width="140px">
+<img src="res/profile.png" width="140px">
 
 ## Hi, I'm Vlad!
 
