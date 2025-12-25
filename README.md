@@ -1,4 +1,4 @@
-<img src="res/profile.png" width="140px">
+<img src="res/profile1.png" width="140px">
 
 ## Hi, I'm Vlad!
 
@@ -143,7 +143,7 @@ Designing format and tooling for an assignment library with modular integrations
     <td>
       <div align="left" width="300px">
         <a href="https://github.com/vladoleksik/vscode-ghclassroom-extension" style="text-decoration: none;">
-          <img src="https://github.com/vladoleksik/cpp_linting/blob/9fb7e024b5f967ef1e18c25828dd1d75effa3e6d/assets/grading_flow.png" width="300px" style="border-radius:10px;" alt="Thumbnail">
+          <img src="res/vscode-extn-thumbnail.png" width="300px" style="border-radius:10px;" alt="Thumbnail">
           <br>
         </a>
           <div align="left" style="max-width: 300px;">
