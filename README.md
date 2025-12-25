@@ -1,3 +1,5 @@
+<img src="res/profile.png" width="140px">
+
 ## Hi, I'm Vlad!
 
 I’m third-year Computer Engineering student driven by a curiosity for how complex systems work, from the silicon (microprocessor design) to the abstract (Formal Language Theory) and the futuristic (Multi-agent AI). Passionate about solving problems and making the world smarter, one idea at a time.\
