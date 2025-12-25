@@ -196,8 +196,7 @@ Designing format and tooling for an assignment library with modular integrations
           <h4 style="color: gray; margin-top: 1em;">TOTP 2FA implementation</h4>
           <font size="1" color="gray">
             2FA authentication app from scratch <br>
-            in C# .NET using WinUI and SotA platform <br>
-            secret storage APIs
+            in C# .NET using WinUI and SotA platform secret storage APIs
           </font>
           <br>
           <kbd>C#</kbd>
