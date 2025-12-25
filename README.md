@@ -1,6 +1,7 @@
-## Hi, I'm Vlad! 
+## Hi, I'm Vlad!
 
-
+I’m third-year Computer Engineering student driven by a curiosity for how complex systems work, from the silicon (microprocessor design) to the abstract (Formal Language Theory) and the futuristic (Multi-agent AI). Passionate about solving problems and making the world smarter, one idea at a time.\
+I spend my time between research and designing the next generation of tooling for CS education. I have a background in competitive programming and love bringing people together around the things worth learning.
 
 ### ⚗️ Currently working on
 #### 🔭 Research
@@ -24,9 +25,14 @@ Designing format and tooling for an assignment library with modular integrations
 * **Databases**: MySQL, Oracle, MongoDB
 
 ### 📕 Currently learning
-
+* **Formal language theory**: language design, compilers, separation logic, formal proofs, LEAN, computability.
+* **Data science & AI**: Markov chains, expander graphs, metric spaces, embeddings, diffusion models.
+* **Microprocessors & Microcontrollers**: ISA design, processor design, pipelining, cache, and branch prediction implementation.
+* **Protocols & system design**: decentralised systems, zero-knowledge proofs, communication protocols, consensus protocols.
 
 ### 🏅 Achievements
+* **Competitive programming**: **Silver medallist** (2022), 2x **Bronze medallist** (2021, 2023) in the Romanian Olympiad in Informatics.
+* **Physics & Maths**: Finalist in the Romanian Mathematics Olympiad & the Romanian Physics Olympiad.
 
 ### 🗃️️ Projects I'm proud of
 #### 🧭 Programming language adventures
