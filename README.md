@@ -1,8 +1,35 @@
-## Hi, I'm Vlad!
+## Hi, I'm Vlad! 
 
-### Projects I'm proud of
 
-#### Programming language adventures
+
+### ⚗️ Currently working on
+#### 🔭 Research
+* **🤖 Multi-agent LLM architectures** \
+Studying performance of various topologies of multi-agent frameworks on a variety of metrics and high- and medium-performance tasks.
+* **🔎 RAG pipelines for formalised data interactions** \
+Designing pipelines for formalising legal documents versioning for embedding-based queries.
+
+#### 📑 Personal projects
+* **🎨 Smart STEM assignment design** \
+Working with autograding pipeline designs for a variety of Computer Science-relaed courses and use-cases.
+* **🧮 Autograding assignment helper extension** \
+Developing a VSCode Web extension for integration and real-time feedback retrieval from CI/CD autograding actions for course assignments.
+* **⚙️ TUI assignment distribution system** \
+Designing format and tooling for an assignment library with modular integrations with CI/CD and version control provider.
+
+#### 🧩 Tech stack
+* **Languages**: C++, Rust, Go, Python, Java, C#, Assembly
+* **Web frameworks**: React, Laravel (learning), Rocket, Fiber
+* **Tooling**: git, clang, Docker, qemu, ollama
+* **Databases**: MySQL, Oracle, MongoDB
+
+### 📕 Currently learning
+
+
+### 🏅 Achievements
+
+### 🗃️️ Projects I'm proud of
+#### 🧭 Programming language adventures
 <table>
   <tr>
     <td>
@@ -41,10 +68,48 @@
         </div>
       </div>
     </td>
+    <td>
+      <div align="left" width="300px">
+        <a href="https://github.com/vladoleksik/bison_parser" style="text-decoration: none;">
+          <img src="https://github.com/vladoleksik/bison_parser/blob/aeab032a52ef70de9bc4d2c8391123f705872bf9/images/haskell-parser.png" height="169px" style="border-radius:10px;" alt="Thumbnail">
+          <br>
+        </a>
+        <div align="left" style="max-width: 300px;">
+          <!--<img src="https://github.com/vladoleksik.png" width="35px" style="border-radius:50%; float:left; margin-right:10px;" alt="Profile">-->
+          <h4 style="color: gray; margin-top: 1em;">Haskell LR(1) parser</h4>
+          <font size="1" color="gray">
+            With Bison integration for table <br>
+            generation and monad-based structure
+          </font>
+          <br>
+          <kbd>Haskell</kbd>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="left" width="300px">
+        <a href="https://github.com/vladoleksik/tracks-scala" style="text-decoration: none;">
+          <img src="https://github.com/vladoleksik/tracks-scala/blob/b769226b37aea91c7a053359a49e8cac556f0d5f/img/scala-thumbnail.png" width="300px" style="border-radius:10px;" alt="Thumbnail">
+          <br>
+        </a>
+        <div align="left" style="max-width: 300px;">
+          <!--<img src="https://github.com/vladoleksik.png" width="35px" style="border-radius:50%; float:left; margin-right:10px;" alt="Profile">-->
+          <h4 style="color: gray; margin-top: 1em;">Tracks puzzle solver in Scala</h4>
+          <font size="1" color="gray">
+            Scala implementation for efficient, <br>
+            functional, Tracks puzzle solving
+          </font>
+          <br>
+          <kbd>Scala</kbd>
+        </div>
+      </div>
+    </td>
   </tr>
 </table>
 
-#### Design for teaching
+#### 💡 Designed for teaching
 <table>
   <tr>
     <td>
@@ -90,7 +155,7 @@
   </tr>
 </table>
 
-#### Made from scratch
+#### 📝 Made from scratch
 <table>
   <tr>
     <td>
@@ -131,20 +196,53 @@
         </div>
       </div>
     </td>
+    <td>
+      <div align="left" width="300px">
+        <a href="https://github.com/vladoleksik/covidcert" style="text-decoration: none;">
+          <img src="https://github.com/vladoleksik/covidcert/blob/7d42b0fd75522cebb5acc0973e65074dd131f026/images/Title.jpg" width="300px" style="border-radius:10px;" alt="Thumbnail">
+          <br>
+        </a>
+        <div align="left" style="max-width: 300px;">
+          <!--<img src="https://github.com/vladoleksik.png" width="35px" style="border-radius:50%; float:left; margin-right:10px;" alt="Profile">-->
+          <h4 style="color: gray; margin-top: 1em;">EUDCC node implementation</h4>
+          <font size="1" color="gray">
+            Implement public key infrastructure <br>
+            for large-scale decentralized certificate <br>
+            management.
+          </font>
+          <br>
+          <kbd>Python</kbd>
+        </div>
+      </div>
+    </td>
   </tr>
 </table>
 
-<!--
-**vladoleksik/vladoleksik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📦 Miscellaneous
+<table>
+  <tr>
+    <td>
+      <div align="left" width="300px">
+        <a href="https://github.com/vladoleksik/cms-exfiltration-poc" style="text-decoration: none;">
+          <img src="https://github.com/vladoleksik/cms-exfiltration-poc/blob/ea672f6d4229793df799cfbd2160c01be626d7d9/images/cms-exfiltration-poc-thumbnail.png" width="300px" style="border-radius:10px;" alt="Thumbnail">
+          <br>
+        </a>
+        <div align="left" style="max-width: 300px;">
+          <!--<img src="https://github.com/vladoleksik.png" width="35px" style="border-radius:50%; float:left; margin-right:10px;" alt="Profile">-->
+          <h4 style="color: gray; margin-top: 1em;">CMS data exfiltration</h4>
+          <font size="1" color="gray">
+            Proof of Concept for data exfiltration <br>
+            in competitive programming contests. <br>
+          </font>
+          <br>
+          <kbd>C++</kbd>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+[<img src="https://www.iconsdb.com/icons/preview/gray/linkedin-3-xxl.png" width="28" height="28" alt="LinkedIn">](https://www.linkedin.com/in/vladoleksik)
+[<img src="https://www.iconsdb.com/icons/preview/gray/mail-xxl.png" width="28" height="28" alt="email">](mailto:vladandrei.oleksik@ulbsibiu.ro)
