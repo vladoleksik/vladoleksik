@@ -68,8 +68,8 @@ Designing format and tooling for an assignment library with modular integrations
           <!--<img src="https://github.com/vladoleksik.png" width="35px" style="border-radius:50%; float:left; margin-right:10px;" alt="Profile">-->
           <h4 style="color: gray; margin-top: 1em;">Rust Sudoku solver</h4>
           <font size="1" color="gray">
-            Rust Sudoku solver with rule- <br>
-            based search space optimization
+            Rust Sudoku solver with rule-based <br>
+            search space optimization
           </font>
           <br>
           <kbd>Rust</kbd>
@@ -123,7 +123,7 @@ Designing format and tooling for an assignment library with modular integrations
     <td>
       <div align="left" width="300px">
         <a href="https://github.com/vladoleksik/cpp_linting" style="text-decoration: none;">
-          <img src="https://github.com/vladoleksik/cpp_linting/blob/9fb7e024b5f967ef1e18c25828dd1d75effa3e6d/assets/grading_flow.png" width="300px" style="border-radius:10px;" alt="Thumbnail">
+          <img src="https://github.com/vladoleksik/cpp_linting/blob/9fb7e024b5f967ef1e18c25828dd1d75effa3e6d/assets/grading_flow.png" height="169px" style="border-radius:10px;" alt="Thumbnail">
           <br>
         </a>
           <div align="left" style="max-width: 300px;">
@@ -152,8 +152,8 @@ Designing format and tooling for an assignment library with modular integrations
               <h4 style="color: gray; margin-block: auto;">VSCode Web extension for <br> Classroom assignments</h4>
             </div>
             <font size="1" color="gray">
-              <i>Coming soon:</i> Extension for <br>
-              assignment feedback retrieval and stats
+              <i>Coming soon:</i> Extension for assignment <br>
+              feedback retrieval and stats
             </font>
             <br>
             <kbd>TypeScript</kbd>
@@ -176,9 +176,9 @@ Designing format and tooling for an assignment library with modular integrations
           <!--<img src="https://github.com/vladoleksik.png" width="35px" style="border-radius:50%; float:left; margin-right:10px;" alt="Profile">-->
           <h4 style="color: gray; margin-top: 1em;">C++ HTTP 1.1 server</h4>
           <font size="1" color="gray">
-            C++ implementation of the HTTP 1.1 <br>
-            protocol, with in-house threading and <br>
-            connection management based on TCP
+            C++ implementation of HTTP 1.1, <br>
+            with in-house threading and <br>
+            state management based on TCP
           </font>
           <br>
           <kbd>C++</kbd>
@@ -196,7 +196,8 @@ Designing format and tooling for an assignment library with modular integrations
           <h4 style="color: gray; margin-top: 1em;">TOTP 2FA implementation</h4>
           <font size="1" color="gray">
             2FA authentication app from scratch <br>
-            in C# .NET using WinUI and SotA platform secret storage APIs
+            in C# .NET using WinUI and SotA <br>
+            platform secret storage APIs
           </font>
           <br>
           <kbd>C#</kbd>
@@ -214,8 +215,8 @@ Designing format and tooling for an assignment library with modular integrations
           <h4 style="color: gray; margin-top: 1em;">EUDCC node implementation</h4>
           <font size="1" color="gray">
             Implement public key infrastructure <br>
-            for large-scale decentralized certificate <br>
-            management.
+            for large-scale decentralized <br>
+            certificate management.
           </font>
           <br>
           <kbd>Python</kbd>
