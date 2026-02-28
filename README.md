@@ -143,7 +143,7 @@ Designing format and tooling for an assignment library with modular integrations
     <td>
       <div align="left" width="300px">
         <a href="https://github.com/vladoleksik/vscode-ghclassroom-extension" style="text-decoration: none;">
-          <img src="res/vscode-extn-thumbnail.png" width="300px" style="border-radius:10px;" alt="Thumbnail">
+          <img src="https://github.com/vladoleksik/vscode-ghclassroom-extension/blob/e715a145b318a19e807c3e69c48ff8f33f6599fb/docs/resources/thumbnail.png" width="300px" style="border-radius:10px;" alt="Thumbnail">
           <br>
         </a>
           <div align="left" style="max-width: 300px;">
@@ -152,7 +152,7 @@ Designing format and tooling for an assignment library with modular integrations
               <h4 style="color: gray; margin-block: auto;">VSCode Web extension for <br> Classroom assignments</h4>
             </div>
             <font size="1" color="gray">
-              <i>Coming soon:</i> Extension for assignment <br>
+              Extension for assignment <br>
               feedback retrieval and stats
             </font>
             <br>
