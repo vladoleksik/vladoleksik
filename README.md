@@ -224,6 +224,27 @@ Designing format and tooling for an assignment library with modular integrations
       </div>
     </td>
   </tr>
+  <tr>
+    <td>
+      <div align="left" width="300px">
+        <a href="https://github.com/vladoleksik/cisc-emulator" style="text-decoration: none;">
+          <img src="https://github.com/vladoleksik/cisc-emulator/blob/c887559ed932d0234ca80bfc7723163870afafad/docs/CPU_sim.png" width="300px" style="border-radius:10px;" alt="Thumbnail">
+          <br>
+        </a>
+        <div align="left" style="max-width: 300px;">
+          <!--<img src="https://github.com/vladoleksik.png" width="35px" style="border-radius:50%; float:left; margin-right:10px;" alt="Profile">-->
+          <h4 style="color: gray; margin-top: 1em;">CISC processor emulator</h4>
+          <font size="1" color="gray">
+            F# microprogrammed processor <br>
+            step-by-step emulator <br>
+            with a graphical user interface
+          </font>
+          <br>
+          <kbd>F#</kbd> <kbd>C#</kbd> 
+        </div>
+      </div>
+    </td>
+  </tr>
 </table>
 
 #### 📦 Miscellaneous
