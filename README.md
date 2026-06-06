@@ -33,7 +33,7 @@ Designing format and tooling for an assignment library with modular integrations
 * **Protocols & system design**: decentralised systems, zero-knowledge proofs, communication protocols, consensus protocols.
 
 ### 🏅 Achievements
-* **Competitive programming**: **Silver medallist** (2022), 2x **Bronze medallist** (2021, 2023) in the Romanian Olympiad in Informatics.
+* **Competitive programming**: **Silver medallist** (2022), 2x **Bronze medallist** (2021, 2023) in the [Romanian Olympiad in Informatics](https://rocphof.kilonova.ro/person/1341).
 * **Physics & Maths**: Finalist in the Romanian Mathematics Olympiad & the Romanian Physics Olympiad.
 
 ### 🗃️️ Projects I'm proud of
